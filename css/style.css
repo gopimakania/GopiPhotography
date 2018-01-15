@@ -1456,6 +1456,7 @@ fieldset[disabled] .s-btn {
   position: absolute;
   right: 1.875rem;
   bottom: 1.875rem;
+  padding-right: 20px;
 }
 
 .s-header__action-item {
